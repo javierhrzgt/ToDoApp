@@ -10,8 +10,8 @@ POST http://localhost:3000/api/notes
 Content-Type: application/json
 
 {
-    "title":"Nota numero 2",
-    "description":"Description de la nota numero 2"
+    "title":"Nota creada desde el backend numero 3",
+    "description":"Description de la nota creada desde el backend numero 3"
 }
 
 ####
